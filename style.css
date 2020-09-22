@@ -1,0 +1,294 @@
+#bodyexample{
+    color:red;
+}
+
+/* to style header */
+
+#headerDiv{
+    margin: .5%;
+    padding: .7%;
+    width: 98%;
+    background-color: khaki;
+    text-align: center;
+}
+
+/* introDiv */
+#div1{
+    margin:.5%;
+    float: left;
+    padding: 15px;
+  
+    width: 42%;
+    background-color: burlywood;
+}
+
+#textColor{
+    color:white;
+}
+
+
+
+/* h1 to h6 div */
+#div2{
+    padding:.7%;
+    margin:.5%;
+    float: left;
+    width: 52%;
+    background-color: silver;
+}
+
+
+/* para div */
+#div3{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+    
+    width: 98%;
+    background-color: lightslategray;
+}
+
+
+
+/* unordered lists */
+#div4{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+    
+    width: 45.5%;
+    background-color: khaki;
+}
+
+
+
+/* ordered lists */
+#div5{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+   
+    width: 49%;
+    background-color: tan;
+
+}
+
+#div6{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+    width: 45.5%;
+    background-color: skyblue;
+}
+
+#div7{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+    width: 49%;
+    background-color: peru;
+
+}
+
+#div8{
+    float: left;
+    padding:.7%;
+    margin:.5%;
+    width: 98%;
+   
+    background-color: mediumseagreen;
+}
+
+#imageId{
+    float: left;
+    width: 48%;
+}
+
+#onlineImage{
+    margin-left: 4%;
+    float:left;
+    width:48%;
+}
+
+#div9{
+    margin:.5%;
+    padding:.7%;
+    float: left;
+    
+    width: 98%;
+    background-color: darkkhaki;
+}
+
+video{
+    float: left;
+    height: auto;
+    width: 100%;
+}
+
+
+#div10{
+    margin:.5%;
+    padding:.7%;
+    float: left;
+    text-align: center;
+    width: 47%;
+    background-color: darksalmon;
+}
+#div11{
+    margin:.5%;
+    padding:.7%;
+    float: left;
+    text-align: center;
+    width: 47%;
+    background-color: darkcyan;
+}
+
+#div12{
+
+    margin:.5%;
+    padding:.7%;
+    float: left;
+    
+    width: 47%;
+    background-color: cadetblue;
+}
+
+
+#div13{
+
+    margin:.5%;
+    padding:.7%;
+    float: left;
+    width: 47%;
+    background-color: steelblue;
+}
+
+
+
+
+#structuralElms{
+    margin:.5%;
+    padding: .7%    ;
+    width:98%;
+    float: left;
+    background-color: goldenrod;
+}
+
+
+
+
+/*  css part */
+
+
+
+
+
+
+
+
+/* css part */
+
+
+
+#cssHeader{
+    background-color:#1D4E89;
+    width: 98%;
+    margin: 0.5%;
+    padding: .7%;
+    text-align: center;
+    color: #eeeeee;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#cssHeader :nth-child(2){
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+#styleInfo{
+    margin: .5%;
+    padding: .7%;
+    width: 47.5%;
+    float: left;
+    
+   
+    color: #eeeeee;
+    background-color: #1D4E89;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+#styleInfo2{
+    margin: .5%;
+    padding: .7%;
+    width: 47.5%;
+    float: left;
+   
+    background-color: peru;
+}
+
+
+#greencolor{
+    color:#eeeeee;
+}
+#styleInfo3{
+    color: powderblue;
+    margin: .5%;
+    padding: .7%;
+    width: 47.5%;
+    float: left;
+ 
+    background-color: teal;
+}
+#styleInfo4{
+    margin: .5%;
+    padding: .7%;
+    width: 47.5%;
+    float: left;
+
+    color: papayawhip;
+    background-color: salmon;
+   
+}
+
+
+
+
+
+#htmlELms{
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    border: steelblue solid 3px;
+    border-radius: 1rem;
+    background-color: tomato;
+    color: #eeeeee;
+    text-align: center;
+    width: 98%;
+    margin: .5%;
+    padding: .7%;
+
+}
+
+#htmlElmsBtn1{
+    width: 300px;
+    height: 30px;
+    border: #1D4E89;
+    color: steelblue;
+    font-size: 16px;
+}
+
+#htmlElmLink{
+    text-decoration: none;
+}
+
+#giveStyles1{
+    width: 400px;
+    border: teal solid 3px;
+    margin-top: 15px;
+    margin-left: 200px;
+    text-align: left;
+}
+
+
